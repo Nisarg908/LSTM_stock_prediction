@@ -13,7 +13,6 @@ This project utilizes Long Short-Term Memory (LSTM) networks to predict stock op
 - Design of LSTM-based neural network model for stock open price prediction.
 - Demonstration of overfitting mitigation using Dropout technique.
 - Utilization of Adam optimizer for model training and optimization.
-- Comparison of model performance with and without optimization techniques.
 
 ### Usage:
 1. Run the provided scripts for data preprocessing, model training, and prediction.
